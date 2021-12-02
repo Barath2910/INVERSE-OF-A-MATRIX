@@ -25,6 +25,7 @@ print(B)
 ~~~
 ## Output:
 ![OUTPUT](2.PNG)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
